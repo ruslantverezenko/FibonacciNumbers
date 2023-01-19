@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\ConsoleAppFibonacciNumbers\ConsoleAppFibonacciNumbers\obj\Debug\ConsoleAppFibonacciNumbers.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\ConsoleAppFibonacciNumbers\ConsoleAppFibonacciNumbers\obj\Debug\ConsoleAppFibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\ConsoleAppFibonacciNumbers\ConsoleAppFibonacciNumbers\bin\Debug\ConsoleAppFibonacciNumbers.exe.config
+C:\Users\Q\source\repos\ConsoleAppFibonacciNumbers\ConsoleAppFibonacciNumbers\bin\Debug\ConsoleAppFibonacciNumbers.exe
+C:\Users\Q\source\repos\ConsoleAppFibonacciNumbers\ConsoleAppFibonacciNumbers\bin\Debug\ConsoleAppFibonacciNumbers.pdb
+C:\Users\Q\source\repos\ConsoleAppFibonacciNumbers\ConsoleAppFibonacciNumbers\obj\Debug\ConsoleAppFibonacciNumbers.exe
+C:\Users\Q\source\repos\ConsoleAppFibonacciNumbers\ConsoleAppFibonacciNumbers\obj\Debug\ConsoleAppFibonacciNumbers.pdb
